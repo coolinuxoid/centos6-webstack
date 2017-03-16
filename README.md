@@ -1,4 +1,4 @@
-# centos6-lamp
+# centos6-Webstack
 Description:
 Script installs Linux-Apache/Nginx-MySQL/PostgreSQL-PHP on remote Centos 6 servers with ssh
 1. "centos6-webstack.sh" bash scripts will ask you ip address and root password of remote host
