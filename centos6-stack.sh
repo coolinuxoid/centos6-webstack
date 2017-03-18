@@ -1,7 +1,7 @@
 #!/bin/bash
 #Main Function
 function ssh-connect() {
-echo "Please enter FQDN or IP addr of Remote Host (Only Centos 6 Servers for now:))"
+echo "Please enter FQDN or IP addr of Remote Host"
 read host
 echo "Please enter root password for remote host"
 echo -n Password:
